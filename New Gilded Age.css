@@ -23,3 +23,9 @@ header{
 	font-variant: small-caps;
 	background-color: navy;
 }
+
+<style>
+.datavisual{
+	display: inline-block
+}
+</style>
