@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function init() {
     timeColumn: "contrib_date",
     timeLabel: "Number of Contributions",
     domainBoundMin: 1,
-    domainBoundMax: 2600, //00000,
+    domainBoundMax: 2600, 
     numTimeBins: 423
   }
 
